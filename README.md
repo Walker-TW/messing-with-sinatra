@@ -1,0 +1,1 @@
+A project that explores Sinatra framework and the beginnings of HTML integration.
